@@ -1,0 +1,18 @@
+.og-grid li {
+    width: 250px;
+}
+
+.og-grid li .thumb {
+    height: 250px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.bg-image {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
